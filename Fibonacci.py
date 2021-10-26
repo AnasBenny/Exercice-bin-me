@@ -4,7 +4,7 @@ a = 0
 b = 1
 total = 0
 
-print("Les {0} premiers nombres de la suite de Fibonacci sont :".format(nombres), end = " ")
+print("Les {0} premiers nombres de la suite de Fibonacci sont en tout et pour tout:".format(nombres), end = " ")
 for _ in range(nombres):
   print(total, end = " ")
   a = b
